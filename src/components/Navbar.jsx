@@ -13,7 +13,7 @@ const navItems = [
 
 export default function Navbar() {
   return (
-    <nav className="navbar mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+    <nav className="navbar mx-auto max-w-7xl px-4  ">
       {/* ================= Logo ================= */}
       <div className="navbar-start">
         <NavLink to="/">
